@@ -1,0 +1,8 @@
+{
+  "name": "my-package",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron-builder": "^23.1.0",
+    "ngrok": "^4.3.1"
+  }
+}
